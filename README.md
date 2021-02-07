@@ -1,1 +1,3 @@
-# myPortfolio2018
+# Bitcoin Profits Live
+
+Repo used to launch web app to Heroku
